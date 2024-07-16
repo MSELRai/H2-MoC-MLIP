@@ -15,7 +15,7 @@ def main():
 
     #### Inputs ###########
     # init_config must also contain lattice vectors, PBC, etc...
-    init_config = "init_conf.xyz" 
+    init_config = "start.xyz" 
     seed = 42  
     temperature = 900  
     nsteps = 1000000  
